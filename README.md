@@ -17,4 +17,4 @@ so we recommend forking the repository and making changes in your fork for your 
 
 License
 ---
-MIT (see LICENSE)
+&copy; [MIT (see LICENSE)](https://github.com/VividCortex/lastseen/blob/master/LICENSE)
